@@ -1,0 +1,9 @@
+C:\Users\mariu\source\repos\Calculator V2\bin\Debug\Calculator V2.exe.config
+C:\Users\mariu\source\repos\Calculator V2\bin\Debug\Calculator V2.exe
+C:\Users\mariu\source\repos\Calculator V2\bin\Debug\Calculator V2.pdb
+C:\Users\mariu\source\repos\Calculator V2\obj\Debug\Calculator V2.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\Calculator V2\obj\Debug\Calculator_V2.Properties.Resources.resources
+C:\Users\mariu\source\repos\Calculator V2\obj\Debug\Calculator V2.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\Calculator V2\obj\Debug\Calculator V2.exe
+C:\Users\mariu\source\repos\Calculator V2\obj\Debug\Calculator V2.pdb
+C:\Users\mariu\source\repos\Calculator V2\obj\Debug\Calculator_V2.Form1.resources
